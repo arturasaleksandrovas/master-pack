@@ -1,0 +1,15 @@
+/Users/tomhanks/Projects/MasterControlApiPOC/MasterControlApiPOC/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/Users/tomhanks/Projects/MasterControlApiPOC/MasterControlApiPOC/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/tomhanks/Projects/MasterControlApiPOC/MasterControlApiPOC/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/tomhanks/Projects/MasterControlApiPOC/MasterControlApiPOC/bin/Debug/netcoreapp2.1/MasterControlApiPOC.deps.json
+/Users/tomhanks/Projects/MasterControlApiPOC/MasterControlApiPOC/bin/Debug/netcoreapp2.1/MasterControlApiPOC.runtimeconfig.json
+/Users/tomhanks/Projects/MasterControlApiPOC/MasterControlApiPOC/bin/Debug/netcoreapp2.1/MasterControlApiPOC.runtimeconfig.dev.json
+/Users/tomhanks/Projects/MasterControlApiPOC/MasterControlApiPOC/bin/Debug/netcoreapp2.1/MasterControlApiPOC.dll
+/Users/tomhanks/Projects/MasterControlApiPOC/MasterControlApiPOC/bin/Debug/netcoreapp2.1/MasterControlApiPOC.pdb
+/Users/tomhanks/Projects/MasterControlApiPOC/MasterControlApiPOC/obj/Debug/netcoreapp2.1/MasterControlApiPOC.RazorAssemblyInfo.cache
+/Users/tomhanks/Projects/MasterControlApiPOC/MasterControlApiPOC/obj/Debug/netcoreapp2.1/MasterControlApiPOC.RazorAssemblyInfo.cs
+/Users/tomhanks/Projects/MasterControlApiPOC/MasterControlApiPOC/obj/Debug/netcoreapp2.1/MasterControlApiPOC.AssemblyInfoInputs.cache
+/Users/tomhanks/Projects/MasterControlApiPOC/MasterControlApiPOC/obj/Debug/netcoreapp2.1/MasterControlApiPOC.AssemblyInfo.cs
+/Users/tomhanks/Projects/MasterControlApiPOC/MasterControlApiPOC/obj/Debug/netcoreapp2.1/MasterControlApiPOC.RazorTargetAssemblyInfo.cache
+/Users/tomhanks/Projects/MasterControlApiPOC/MasterControlApiPOC/obj/Debug/netcoreapp2.1/MasterControlApiPOC.dll
+/Users/tomhanks/Projects/MasterControlApiPOC/MasterControlApiPOC/obj/Debug/netcoreapp2.1/MasterControlApiPOC.pdb
